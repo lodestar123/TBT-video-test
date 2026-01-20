@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1874602705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b84e81e7535cf08f714e4733c2b54977
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b84e81e7535cf08f714e4733c2b54977
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VideoSource/SkipAnimation/SkipSleeping.mp4
+Dependencies: []

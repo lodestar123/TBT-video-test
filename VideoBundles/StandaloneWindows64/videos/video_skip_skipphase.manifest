@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3957939513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6761350c45c335b4082bec680a34512
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b6761350c45c335b4082bec680a34512
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VideoSource/SkipAnimation/SkipPhase.mp4
+Dependencies: []

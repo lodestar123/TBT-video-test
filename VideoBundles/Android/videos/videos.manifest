@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2830207090
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: video_story_animday1
+      Dependencies: {}
+    Info_1:
+      Name: video_story_animday2
+      Dependencies: {}
+    Info_2:
+      Name: video_story_animday3
+      Dependencies: {}
+    Info_3:
+      Name: video_story_animday4
+      Dependencies: {}
+    Info_4:
+      Name: video_story_animday5
+      Dependencies: {}
+    Info_5:
+      Name: video_story_animday6
+      Dependencies: {}
+    Info_6:
+      Name: video_story_animday7
+      Dependencies: {}
+    Info_7:
+      Name: video_story_animday8
+      Dependencies: {}
+    Info_8:
+      Name: video_story_animday9
+      Dependencies: {}
+    Info_9:
+      Name: video_story_animday10
+      Dependencies: {}
+    Info_10:
+      Name: video_story_animday11
+      Dependencies: {}
+    Info_11:
+      Name: video_story_animday12
+      Dependencies: {}
+    Info_12:
+      Name: video_story_animday13
+      Dependencies: {}
+    Info_13:
+      Name: video_story_animday14
+      Dependencies: {}
+    Info_14:
+      Name: video_story_animday100
+      Dependencies: {}
+    Info_15:
+      Name: video_skip_skipphase
+      Dependencies: {}
+    Info_16:
+      Name: video_skip_skipsleeping
+      Dependencies: {}

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3486904427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e044030576e1b299f9b6f05ea61d7b3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e044030576e1b299f9b6f05ea61d7b3c
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VideoSource/StoryAnimation/AnimDay2.mp4
+Dependencies: []
